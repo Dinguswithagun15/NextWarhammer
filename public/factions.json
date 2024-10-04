@@ -1,0 +1,1991 @@
+{
+    "factions": [
+        {
+            "id": "spacemarines",
+            "title": "Space Marines",
+            "detachments": [
+                {
+                    "title": "Gladius Strike Force",
+                    "enhancements": [
+                        {
+                            "title": "Artificer Armour",
+                            "cost": "10",
+                            "keywords": []
+                        },
+                        {
+                            "title": "The Honour Vehement",
+                            "cost": "15",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Adept of the Codex",
+                            "cost": "20",
+                            "keywords": ["Captain"]
+                        },
+                        {
+                            "title": "Fire Discipline",
+                            "cost": "30",
+                            "keywords": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Anvil Siege Force",
+                    "enhancements": [
+                        {
+                            "title": "Indomitable Fury",
+                            "cost": "20",
+                            "keywords": ["Gravis"]
+                        },
+                        {
+                            "title": "Fleet Commander",
+                            "cost": "15",
+                            "keywords": ["Captain"]
+                        },
+                        {
+                            "title": "Stoic Defender",
+                            "cost": "15",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Architect of War",
+                            "cost": "25",
+                            "keywords": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Ironstorm Spearhead",
+                    "enhancements": [
+                        {
+                            "title": "Target Augury Web",
+                            "cost": "30",
+                            "keywords": ["Techmarine"]
+                        },
+                        {
+                            "title": "The Flesh is Weak",
+                            "cost": "10",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Adept of the Omnissiah",
+                            "cost": "35",
+                            "keywords": ["Techmarine"]
+                        },
+                        {
+                            "title": "Master of Machine War",
+                            "cost": "20",
+                            "keywords": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Firestorm Assault Force",
+                    "enhancements": [
+                        {
+                            "title": "Champion of Humanity",
+                            "cost": "10",
+                            "keywords": ["Tacticus"]
+                        },
+                        {
+                            "title": "War-tempered Artifice",
+                            "cost": "25",
+                            "keywords": ["Infantry"]
+                        },
+                        {
+                            "title": "Forged in Battle",
+                            "cost": "15",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Adamantine Mantle",
+                            "cost": "20",
+                            "keywords": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Stormlance Task Force",
+                    "enhancements": [
+                        {
+                            "title": "Fury of the Storm",
+                            "cost": "25",
+                            "keywords": ["Mounted"]
+                        },
+                        {
+                            "title": "Portents of Wisdom",
+                            "cost": "15",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Feinting Withdrawal",
+                            "cost": "20",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Hunter's Instincts",
+                            "cost": "10",
+                            "keywords": ["Mounted"]
+                        }
+                    ]
+                },
+                {
+                    "title": "Vanguard Spearhead",
+                    "enhancements": [
+                        {
+                            "title": "The Blade Driven Deep",
+                            "cost": "25",
+                            "keywords": ["Infantry"]
+                        },
+                        {
+                            "title": "Ghostweave Cloak",
+                            "cost": "15",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Execute and Redeploy",
+                            "cost": "20",
+                            "keywords": ["Phobos"]
+                        },
+                        {
+                            "title": "Shadow War Veteran",
+                            "cost": "30",
+                            "keywords": ["Phobos"]
+                        }
+                    ]
+                },
+                {
+                    "title": "1st Company Task Force",
+                    "enhancements": [
+                        {
+                            "title": "The Imperium's Sword",
+                            "cost": "25",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Fear Made Manifest (Aura)",
+                            "cost": "30",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Rites of War",
+                            "cost": "10",
+                            "keywords": ["Terminator"]
+                        },
+                        {
+                            "title": "Iron Resolve",
+                            "cost": "15",
+                            "keywords": ["Terminator"]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "blacktemplars",
+            "title": "Black Templars",
+            "detachments": [
+                {
+                    "title": "Righteous Crusaders",
+                    "enhancements": [
+                        {
+                            "title": "Perdition's Edge",
+                            "cost": "15",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Witchseeker Bolts",
+                            "cost": "10",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Sigismund's Seal",
+                            "cost": "20",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Tännhauser's Bones",
+                            "cost": "35",
+                            "keywords": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "bloodangels",
+            "title": "Blood Angels",
+            "detachments": [
+                {
+                    "title": "Sons of Sanguinius",
+                    "enhancements": [
+                        {
+                            "title": "Archangel's Shard",
+                            "cost": "25",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Artisan of War",
+                            "cost": "20",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Icon of the Angel",
+                            "cost": "10",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Visage of Death",
+                            "cost": "15",
+                            "keywords": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "darkangels",
+            "title": "Dark Angels",
+            "detachments": [
+                {
+                    "title": "Unforgiven Task Force",
+                    "enhancements": [
+                        {
+                            "title": "Shroud of Heroes",
+                            "cost": "25",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Stubborn Tenacity",
+                            "cost": "15",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Weapons of the First Legion",
+                            "cost": "15",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Pennant of Remembrance",
+                            "cost": "10",
+                            "keywords": ["Ancient"]
+                        }
+                    ]
+                },
+                {
+                    "title": "Inner Circle",
+                    "enhancements": [
+                        {
+                            "title": "Champion of the Deathwing",
+                            "cost": "15",
+                            "keywords": ["Deathwing"]
+                        },
+                        {
+                            "title": "Eye of the Unseen",
+                            "cost": "10",
+                            "keywords": ["Deathwing"]
+                        },
+                        {
+                            "title": "Singular Will",
+                            "cost": "20",
+                            "keywords": ["Deathwing"]
+                        },
+                        {
+                            "title": "Deathwing Assault",
+                            "cost": "30",
+                            "keywords": ["&Deathwing", "&Deep Strike"]
+                        }
+                    ]
+                },
+                {
+                    "title": "Company of Hunters",
+                    "enhancements": [
+                        {
+                            "title": "Master-crafted Weapon",
+                            "cost": "10",
+                            "keywords": ["Ravenwing"]
+                        },
+                        {
+                            "title": "Mounted Strategist",
+                            "cost": "30",
+                            "keywords": ["Ravenwing"]
+                        },
+                        {
+                            "title": "Master of Manoeuvre",
+                            "cost": "15",
+                            "keywords": ["Ravenwing"]
+                        },
+                        {
+                            "title": "Recon Hunter",
+                            "cost": "20",
+                            "keywords": ["Ravenwing"]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "deathwatch",
+            "title": "Deathwatch",
+            "detachments": [
+                {
+                    "title": "Black Spear Task Force",
+                    "enhancements": [
+                        {
+                            "title": "Thief of Secrets",
+                            "cost": "15",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Osseus Key",
+                            "cost": "20",
+                            "keywords": ["|Watch Master", "|Techmarine"]
+                        },
+                        {
+                            "title": "Beacon Angelis",
+                            "cost": "30",
+                            "keywords": []
+                        },
+                        {
+                            "title": "The Tome of Ectoclades",
+                            "cost": "40",
+                            "keywords": ["|Watch Master", "|Captain"]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "greyknights",
+            "title": "Grey Knights",
+            "detachments": [
+                {
+                    "title": "Teleport Strike Force",
+                    "enhancements": [
+                        {
+                            "title": "First to the Fray",
+                            "cost": "35",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Domina Liber Daemonica",
+                            "cost": "20",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Sigil of Exigence",
+                            "cost": "30",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Inescapable Wrath",
+                            "cost": "15",
+                            "keywords": []
+
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "spacewolves",
+            "title": "Space Wolves",
+            "detachments": [
+                {
+                    "title": "Champions of Russ",
+                    "enhancements": [
+                        {
+                            "title": "The Pelt of Balewolf",
+                            "cost": "10",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Black Death",
+                            "cost": "25",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Wolf Tail Talisman",
+                            "cost": "20",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Frost Weapon",
+                            "cost": "15",
+                            "keywords": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "adeptasororitas",
+            "title": "Adepta Sororitas",
+            "detachments": [
+                {
+                    "title": "Hallowed Martyrs",
+                    "enhancements": [
+                        {
+                            "title": "Saintly Example",
+                            "cost": "10",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Through Suffering, Strength",
+                            "cost": "25",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Chaplet of Sacrifice",
+                            "cost": "25",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Mantle of Ophelia",
+                            "cost": "20",
+                            "keywords": ["|Canoness", "|Palatine"]
+                        }
+                    ]
+                },
+                {
+                    "title": "Penitent Host",
+                    "enhancements": [
+                        {
+                            "title": "Psalm of Righteous Judgement",
+                            "cost": "30",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Verse of Holy Piety",
+                            "cost": "15",
+                            "keywords": ["Penitent"]
+                        },
+                        {
+                            "title": "Refrain of Enduring Faith",
+                            "cost": "25",
+                            "keywords": ["Penitent"]
+                        },
+                        {
+                            "title": "Catechism of Divine Penitence",
+                            "cost": "20",
+                            "keywords": ["|Canoness", "|Palatine", "|Ministorum Priest"]
+                        }
+                    ]
+                },
+                {
+                    "title": "Bringers of Flame",
+                    "enhancements": [
+                        {
+                            "title": "Righteous Rage",
+                            "cost": "10",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Manual of Saint Griselda",
+                            "cost": "15",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Fire and Fury",
+                            "cost": "20",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Iron Surplice of Saint Istalela",
+                            "cost": "5",
+                            "keywords": ["|Canoness", "|Palatine"]
+                        }
+                    ]
+                },
+                {
+                    "title": "Army of Faith",
+                    "enhancements": [
+                        {
+                            "title": "Litanies of Faith",
+                            "cost": "10",
+                            "keywords": ["|Canoness", "|Palatine"]
+                        },
+                        {
+                            "title": "Blade of Saint Ellynor",
+                            "cost": "15",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Divine Aspect",
+                            "cost": "5",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Triptych of the Macharian Crusade",
+                            "cost": "20",
+                            "keywords": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "adeptuscustodes",
+            "title": "Adeptus Custodes",
+            "detachments": [
+                {
+                    "title": "Talons of the Emperor",
+                    "enhancements": [
+                        {
+                            "title": "Aegis Projector",
+                            "cost": "20",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Champion of the Imperium",
+                            "cost": "25",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Gift of Terran Artifice",
+                            "cost": "15",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Radiant Mantle",
+                            "cost": "30",
+                            "keywords": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Shield Host",
+                    "enhancements": [
+                        {
+                            "title": "Auric Mantle",
+                            "cost": "15",
+                            "keywords": ["|Shield-captain", "|Blade Champion"]
+                        },
+                        {
+                            "title": "Castellan's Mark",
+                            "cost": "20",
+                            "keywords": ["Shield-captain"]
+                        },
+                        {
+                            "title": "From the Hall of Armouries",
+                            "cost": "25",
+                            "keywords": ["Shield-captain"]
+                        },
+                        {
+                            "title": "Panoptispex",
+                            "cost": "5",
+                            "keywords": ["|Shield-captain", "|Blade Champion"]
+                        }
+                    ]
+                },
+                {
+                    "title": "Null Maiden Vigil",
+                    "enhancements": [
+                        {
+                            "title": "Enhance Voidsheen Cloak",
+                            "cost": "10",
+                            "keywords": ["Anathema Psykana"]
+                        },
+                        {
+                            "title": "Huntress' Eye",
+                            "cost": "15",
+                            "keywords": ["Anathema Psykana"]
+                        },
+                        {
+                            "title": "Oblivion Knight",
+                            "cost": "25",
+                            "keywords": ["Anathema Psykana"]
+                        },
+                        {
+                            "title": "Raptor Blade",
+                            "cost": "5",
+                            "keywords": ["Anathema Psykana"]
+                        }
+                    ]
+                },
+                {
+                    "title": "Auric Champions",
+                    "enhancements": [
+                        {
+                            "title": "Blade of Imperator",
+                            "cost": "25",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Inspirational Exemplar",
+                            "cost": "10",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Martial Philosopher",
+                            "cost": "30",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Veiled Blade",
+                            "cost": "25",
+                            "keywords": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "adeptusmechanicus",
+            "title": "Adeptus Mechanicus",
+            "detachments": [
+                {
+                    "title": "Rad-Zone Corps",
+                    "enhancements": [
+                        {
+                            "title": "Radial Suffusion",
+                            "cost": "25",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Malphonic Susurrus",
+                            "cost": "20",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Peerless Eradicator",
+                            "cost": "20",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Autoclavic Denunciation",
+                            "cost": "15",
+                            "keywords": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Skitarii Hunter Cohort",
+                    "enhancements": [
+                        {
+                            "title": "Cantic Thrallnet",
+                            "cost": "25",
+                            "keywords": ["Skitarii Marshal"]
+                        },
+                        {
+                            "title": "Clandestine Infiltrator",
+                            "cost": "20",
+                            "keywords": ["Skitarii"]
+                        },
+                        {
+                            "title": "Veiled Hunter",
+                            "cost": "10",
+                            "keywords": ["Skitarii Marshal"]
+                        },
+                        {
+                            "title": "Battle-sphere Uplink",
+                            "cost": "30",
+                            "keywords": ["Skitarii"]
+                        }
+                    ]
+                },
+                {
+                    "title": "Data-Psalm Conclave",
+                    "enhancements": [
+                        {
+                            "title": "Mechanicus Locum",
+                            "cost": "10",
+                            "keywords": ["Tech-priest"]
+                        },
+                        {
+                            "title": "Mantle of Gnosticarch",
+                            "cost": "15",
+                            "keywords": ["Tech-priest"]
+                        },
+                        {
+                            "title": "Data-blessed Autosermon",
+                            "cost": "20",
+                            "keywords": ["Tech-priest"]
+                        },
+                        {
+                            "title": "Temporcopia",
+                            "cost": "25",
+                            "keywords": ["Tech-priest"]
+                        }
+                    ]
+                },
+                {
+                    "title": "Explorator Maniple",
+                    "enhancements": [
+                        {
+                            "title": "Magos",
+                            "cost": "15",
+                            "keywords": ["Tech-priest"]
+                        },
+                        {
+                            "title": "Genetor",
+                            "cost": "25",
+                            "keywords": ["Tech-priest"]
+                        },
+                        {
+                            "title": "Logis",
+                            "cost": "20",
+                            "keywords": ["Tech-priest"]
+                        },
+                        {
+                            "title": "Artisan",
+                            "cost": "15",
+                            "keywords": ["Tech-priest"]
+                        }
+                    ]
+                },
+                {
+                    "title": "Cohort Cybernetica",
+                    "enhancements": [
+                        {
+                            "title": "Necromechanic",
+                            "cost": "25",
+                            "keywords": ["Tech-priest"]
+                        },
+                        {
+                            "title": "Lord of Machines",
+                            "cost": "20",
+                            "keywords": ["Tech-priest"]
+                        },
+                        {
+                            "title": "Emotionless Clarity",
+                            "cost": "15",
+                            "keywords": ["Tech-priest"]
+                        },
+                        {
+                            "title": "Arch-negator",
+                            "cost": "10",
+                            "keywords": ["Tech-priest"]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "astramilitarum",
+            "title": "Astra Militarum",
+            "detachments": [
+                {
+                    "title": "Combined Regiment",
+                    "enhancements": [
+                        {
+                            "title": "Death Mask of Ollanius",
+                            "cost": "10",
+                            "keywords": ["Officer"]
+                        },
+                        {
+                            "title": "Drill Commander",
+                            "cost": "20",
+                            "keywords": ["Officer"]
+                        },
+                        {
+                            "title": "Grand Strategist",
+                            "cost": "15",
+                            "keywords": ["Officer"]
+                        },
+                        {
+                            "title": "Kurov's Aquila",
+                            "cost": "40",
+                            "keywords": ["Officer"]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "imperialknights",
+            "title": "Imperial Knights",
+            "detachments": [
+                {
+                    "title": "Noble Lance",
+                    "enhancements": [
+                        {
+                            "title": "Revered Knight (Aura)",
+                            "cost": "15",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Mysterious Guardian",
+                            "cost": "25",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Mythic Hero",
+                            "cost": "25",
+                            "keywords": ["Questoris"]
+                        },
+                        {
+                            "title": "Banner of Macharius Triumphant",
+                            "cost": "30",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Unyielding Paragon",
+                            "cost": "40",
+                            "keywords": ["Questoris"]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "chaosspacemarines",
+            "title": "Chaos Space Marines",
+            "detachments": [
+                {
+                    "title": "Veterans of the Long War",
+                    "enhancements": [
+                        {
+                            "title": "Eager for Vengeance",
+                            "cost": "20",
+                            "keywords": ["!Damned"]
+                        },
+                        {
+                            "title": "Eye of Abbadon",
+                            "cost": "15",
+                            "keywords": ["!Damned"]
+                        },
+                        {
+                            "title": "Mark of Legend",
+                            "cost": "10",
+                            "keywords": ["!Damned"]
+                        },
+                        {
+                            "title": "Warmaster's Gift",
+                            "cost": "15",
+                            "keywords": ["Chaos Lord"]
+                        }
+                    ]
+                },
+                {
+                    "title": "Deceptors",
+                    "enhancements": [
+                        {
+                            "title": "Cursed Fang",
+                            "cost": "10",
+                            "keywords": ["Infantry"]
+                        },
+                        {
+                            "title": "Falsehood",
+                            "cost": "10",
+                            "keywords": ["&Chaos Lord", "&!Terminator", "&!Jump Pack"]
+                        },
+                        {
+                            "title": "Shroud of Obfuscation",
+                            "cost": "15",
+                            "keywords": ["Infantry"]
+                        },
+                        {
+                            "title": "Soul Link",
+                            "cost": "5",
+                            "keywords": ["Infantry"]
+                        }
+                    ]
+                },
+                {
+                    "title": "Renegade Raiders",
+                    "enhancements": [
+                        {
+                            "title": "Despot's Claim",
+                            "cost": "15",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Dread Reaver",
+                            "cost": "15",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Mark of the Hound",
+                            "cost": "25",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Tyrant's Lash",
+                            "cost": "20",
+                            "keywords": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Dread Talons",
+                    "enhancements": [
+                        {
+                            "title": "Eater of Dread",
+                            "cost": "15",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Night's Shroud",
+                            "cost": "20",
+                            "keywords": ["&Chaos Lord", "&!Terminator"]
+                        },
+                        {
+                            "title": "Warp-Fuelled Thrusters",
+                            "cost": "20",
+                            "keywords": ["Jump Pack", "Chaos Lord"]
+                        },
+                        {
+                            "title": "Willbreaker",
+                            "cost": "10",
+                            "keywords": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Fellhammer Siege-Host",
+                    "enhancements": [
+                        {
+                            "title": "Bastion Plate",
+                            "cost": "10",
+                            "keywords": ["&Chaos Lord", "&!Jump Pack"]
+                        },
+                        {
+                            "title": "Iron Artifice",
+                            "cost": "10",
+                            "keywords": ["Infantry"]
+                        },
+                        {
+                            "title": "Ironbound Enmity",
+                            "cost": "15",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Warp Tracer",
+                            "cost": "20",
+                            "keywords": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Pactbound Zealots",
+                    "enhancements": [
+                        {
+                            "title": "Eye of Tzeentch",
+                            "cost": "15",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Intoxicating Elixir",
+                            "cost": "15",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Orbs of Unlife",
+                            "cost": "15",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Talisman of Burning Blood",
+                            "cost": "15",
+                            "keywords": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Chaos Cult",
+                    "enhancements": [
+                        {
+                            "title": "Amulet of Tainted Vigour",
+                            "cost": "20",
+                            "keywords": ["Dark Apostle"]
+                        },
+                        {
+                            "title": "Cultist's Brand",
+                            "cost": "20",
+                            "keywords": ["|Dark Apostle", "|Damned"]
+                        },
+                        {
+                            "title": "Incendiary Goad",
+                            "cost": "15",
+                            "keywords": ["|Dark Apostle", "|Damned"]
+                        },
+                        {
+                            "title": "Warped Foresight",
+                            "cost": "10",
+                            "keywords": ["|Dark Apostle", "|Damned"]
+                        }
+                    ]
+                },
+                {
+                    "title": "Soulforged Warpack",
+                    "enhancements": [
+                        {
+                            "title": "Forge's Blessing",
+                            "cost": "20",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Invigorated Mechatendrils",
+                            "cost": "15",
+                            "keywords": ["Warpsmith"]
+                        },
+                        {
+                            "title": "Tempting Addendum",
+                            "cost": "25",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Soul Harvester",
+                            "cost": "15",
+                            "keywords": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "deathguard",
+            "title": "Death Guard",
+            "detachments": [
+                {
+                    "title": "Plague Company",
+                    "enhancements": [
+                        {
+                            "title": "Living Plague",
+                            "cost": "20",
+                            "keywords": []
+                        },
+                        {
+                            "title": "The Droning (Aura)",
+                            "cost": "10",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Deadly Pathogen",
+                            "cost": "15",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Shamblerot",
+                            "cost": "25",
+                            "keywords": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "thousandsons",
+            "title": "Thousand Sons",
+            "detachments": [
+                {
+                    "title": "Cult of Magic",
+                    "enhancements": [
+                        {
+                            "title": "Lord of Forbidden Lore",
+                            "cost": "35",
+                            "keywords": ["Psyker"]
+                        },
+                        {
+                            "title": "Athenaean Scrolls",
+                            "cost": "20",
+                            "keywords": ["Psyker"]
+                        },
+                        {
+                            "title": "Umbralefic Crystal",
+                            "cost": "20",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Arcane Vortex",
+                            "cost": "25",
+                            "keywords": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "worldeaters",
+            "title": "World Eaters",
+            "detachments": [
+                {
+                    "title": "Berzerker Warband",
+                    "enhancements": [
+                        {
+                            "title": "Favoured of Khorne",
+                            "cost": "20",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Berzerker Glaive",
+                            "cost": "25",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Battle-lust",
+                            "cost": "15",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Helm of Brazen Ire",
+                            "cost": "25",
+                            "keywords": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "chaosknights",
+            "title": "Chaos Knights",
+            "detachments": [
+                {
+                    "title": "Traitoris Lance",
+                    "enhancements": [
+                        {
+                            "title": "Lord of Dread",
+                            "cost": "25",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Aura of Terror",
+                            "cost": "25",
+                            "keywords": []
+                        },
+                        {
+                            "title": "The Traitor's Mark",
+                            "cost": "30",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Panoply of the Cursed Knight",
+                            "cost": "40",
+                            "keywords": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "chaosdaemons",
+            "title": "Chaos Daemons",
+            "detachments": [
+                {
+                    "title": "Daemonic Incursion",
+                    "enhancements": [
+                        {
+                            "title": "A'rgath, the King of Blades",
+                            "cost": "20",
+                            "keywords": ["Khorne"]
+                        },
+                        {
+                            "title": "The Everstave",
+                            "cost": "25",
+                            "keywords": ["Tzeentch"]
+                        },
+                        {
+                            "title": "The Endless Gift",
+                            "cost": "30",
+                            "keywords": ["Nurgle"]
+                        },
+                        {
+                            "title": "Soulstealer",
+                            "cost": "15",
+                            "keywords": ["Slaanesh"]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "aeldari",
+            "title": "Aeldari",
+            "detachments": [
+                {
+                    "title": "Battle Host",
+                    "enhancements": [
+                        {
+                            "title": "The Phoenix Gem",
+                            "cost": "35",
+                            "keywords": []
+                        },
+                        {
+                            "title": "The Weeping Stones",
+                            "cost": "15",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Reader of the Runes",
+                            "cost": "20",
+                            "keywords": ["Psyker"]
+                        },
+                        {
+                            "title": "Fate's Messenger",
+                            "cost": "15",
+                            "keywords": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "drukhari",
+            "title": "Drukhari",
+            "detachments": [
+                {
+                    "title": "Realspace Raiders",
+                    "enhancements": [
+                        {
+                            "title": "Crucible of Malediction",
+                            "cost": "10",
+                            "keywords": ["Haemonculus"]
+                        },
+                        {
+                            "title": "Labyrinthine Cunning",
+                            "cost": "30",
+                            "keywords": ["Archon"]
+                        },
+                        {
+                            "title": "Blood Dancer",
+                            "cost": "20",
+                            "keywords": ["Succubus"]
+                        },
+                        {
+                            "title": "The Art of Pain",
+                            "cost": "25",
+                            "keywords": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Skysplinter Assault",
+                    "enhancements": [
+                        {
+                            "title": "Phantasmal Smoke",
+                            "cost": "20",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Sadistic Fulcrum",
+                            "cost": "15",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Spiteful Raider",
+                            "cost": "10",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Nightmare Shroud",
+                            "cost": "20",
+                            "keywords": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tyranids",
+            "title": "Tyranids",
+            "detachments": [
+                {
+                    "title": "Invasion Fleet",
+                    "enhancements": [
+                        {
+                            "title": "Alien Cunning",
+                            "cost": "30",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Perfectly Adapted",
+                            "cost": "15",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Synaptic Linchpin",
+                            "cost": "20",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Adaptive Biology",
+                            "cost": "25",
+                            "keywords": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Crusher Stampede",
+                    "enhancements": [
+                        {
+                            "title": "Ominous Presence",
+                            "cost": "15",
+                            "keywords": ["Monster"]
+                        },
+                        {
+                            "title": "Enraged Reserves",
+                            "cost": "20",
+                            "keywords": ["Monster"]
+                        },
+                        {
+                            "title": "Null Nodules",
+                            "cost": "10",
+                            "keywords": ["Monster"]
+                        },
+                        {
+                            "title": "Monstrous Nemesis",
+                            "cost": "25",
+                            "keywords": ["Monster"]
+                        }
+                    ]
+                },
+                {
+                    "title": "Unending Swarm",
+                    "enhancements": [
+                        {
+                            "title": "Relentless Hunger",
+                            "cost": "20",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Naturalised Camouflage",
+                            "cost": "30",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Piercing Talons",
+                            "cost": "25",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Adrenalised Onslaught",
+                            "cost": "15",
+                            "keywords": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Assimilation Swarm",
+                    "enhancements": [
+                        {
+                            "title": "Regenerating Monstrosity",
+                            "cost": "20",
+                            "keywords": ["!Monster"]
+                        },
+                        {
+                            "title": "Instinctive Defence",
+                            "cost": "15",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Biophagic Flow (Aura)",
+                            "cost": "10",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Parasitic Biomorphology",
+                            "cost": "25",
+                            "keywords": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Vanguard Onslaught",
+                    "enhancements": [
+                        {
+                            "title": "Hunting Grounds",
+                            "cost": "20",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Chameleonic",
+                            "cost": "15",
+                            "keywords": ["Vanguard Invader"]
+                        },
+                        {
+                            "title": "Stalker",
+                            "cost": "10",
+                            "keywords": ["Vanguard Invader"]
+                        },
+                        {
+                            "title": "Neuronode",
+                            "cost": "20",
+                            "keywords": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Synaptic Nexus",
+                    "enhancements": [
+                        {
+                            "title": "Power of the Hive Mind",
+                            "cost": "10",
+                            "keywords": ["Psyker"]
+                        },
+                        {
+                            "title": "Psychostatic Disruption",
+                            "cost": "30",
+                            "keywords": ["Synapse"]
+                        },
+                        {
+                            "title": "Synaptic Control",
+                            "cost": "20",
+                            "keywords": ["Synapse"]
+                        },
+                        {
+                            "title": "The Dirgeheart of Kharis (Aura)",
+                            "cost": "15",
+                            "keywords": ["Synapse"]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "genestealercults",
+            "title": "Genestealer Cults",
+            "detachments": [
+                {
+                    "title": "Host of Ascension",
+                    "enhancements": [
+                        {
+                            "title": "Prowling Agitant",
+                            "cost": "15",
+                            "keywords": []
+                        },
+                        {
+                            "title": "A Chink in Their Armour",
+                            "cost": "20",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Our Time Is Nigh",
+                            "cost": "20",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Assassination Edict",
+                            "cost": "15",
+                            "keywords": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Xenocreed Congregation",
+                    "enhancements": [
+                        {
+                            "title": "Gene-sire's Reliquant",
+                            "cost": "5",
+                            "keywords": ["|Magus", "|Primus", "|Acolyte Iconward"]
+                        },
+                        {
+                            "title": "Denunciator of Tyrants",
+                            "cost": "25",
+                            "keywords": ["|Magus", "|Primus", "|Acolyte Iconward"]
+                        },
+                        {
+                            "title": "Deeds That Speak to the Masses",
+                            "cost": "25",
+                            "keywords": ["|Magus", "|Primus", "|Acolyte Iconward"]
+                        },
+                        {
+                            "title": "Incendiary Inspiration",
+                            "cost": "15",
+                            "keywords": ["|Magus", "|Primus", "|Acolyte Iconward"]
+                        }
+                    ]
+                },
+                {
+                    "title": "Biosantic Broodsurge",
+                    "enhancements": [
+                        {
+                            "title": "Predatory Instincts",
+                            "cost": "20",
+                            "keywords": ["|Abominant", "|Biophagus", "|Patriarch"]
+                        },
+                        {
+                            "title": "Biomorph Adaption",
+                            "cost": "25",
+                            "keywords": ["|Abominant", "|Patriarch"]
+                        },
+                        {
+                            "title": "Mutagenic Regeneration",
+                            "cost": "10",
+                            "keywords": ["|Abominant", "|Biophagus", "|Patriarch"]
+                        },
+                        {
+                            "title": "Alien Majesty",
+                            "cost": "15",
+                            "keywords": ["|Abominant", "|Biophagus", "|Patriarch"]
+                        }
+                    ]
+                },
+                {
+                    "title": "Outlander Claw",
+                    "enhancements": [
+                        {
+                            "title": "Serpentine Tactics",
+                            "cost": "15",
+                            "keywords": ["Mounted"]
+                        },
+                        {
+                            "title": "Cartographic DataLeech",
+                            "cost": "10",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Starfall Shells",
+                            "cost": "10",
+                            "keywords": ["Mounted"]
+                        },
+                        {
+                            "title": "Assault Commandos",
+                            "cost": "15",
+                            "keywords": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Brood Brother Auxilia",
+                    "enhancements": [
+                        {
+                            "title": "Martial Espionage",
+                            "cost": "25",
+                            "keywords": ["Infantry"]
+                        },
+                        {
+                            "title": "Adaptive Reprisal",
+                            "cost": "15",
+                            "keywords": ["Infantry"]
+                        },
+                        {
+                            "title": "The Hero Returned",
+                            "cost": "20",
+                            "keywords": ["Infantry"]
+                        },
+                        {
+                            "title": "Firepoint Commander",
+                            "cost": "10",
+                            "keywords": ["Infantry"]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "leaguesofvotann",
+            "title": "Leagues of Votann",
+            "detachments": [
+                {
+                    "title": "Oathband",
+                    "enhancements": [
+                        {
+                            "title": "Appraising Glare",
+                            "cost": "20",
+                            "keywords": []
+                        },
+                        {
+                            "title": "A Long List",
+                            "cost": "15",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Grim Demeanour",
+                            "cost": "20",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Wayfarer's Grace",
+                            "cost": "25",
+                            "keywords": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "necrons",
+            "title": "Necrons",
+            "detachments": [
+                {
+                    "title": "Awakened Dynasty",
+                    "enhancements": [
+                        {
+                            "title": "Veil of Darkness",
+                            "cost": "20",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Nether-realm Casket",
+                            "cost": "20",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Phasal Subjugator (Aura)",
+                            "cost": "35",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Enaegic Dermal Bond",
+                            "cost": "15",
+                            "keywords": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Annihilation Legion",
+                    "enhancements": [
+                        {
+                            "title": "Eternal Madness",
+                            "cost": "25",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Ingrained Superiority",
+                            "cost": "10",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Soulless Reaper",
+                            "cost": "20",
+                            "keywords": ["Destroyer Cult"]
+                        },
+                        {
+                            "title": "Eldritch Nightmare",
+                            "cost": "15",
+                            "keywords": ["Destroyer Cult"]
+                        }
+                    ]
+                },
+                {
+                    "title": "Canoptek Court",
+                    "enhancements": [
+                        {
+                            "title": "Dimensional Sanctum",
+                            "cost": "20",
+                            "keywords": ["Cryptek"]
+                        },
+                        {
+                            "title": "Hyperphasic Fulcrum",
+                            "cost": "15",
+                            "keywords": ["Cryptek"]
+                        },
+                        {
+                            "title": "Autodivinator",
+                            "cost": "15",
+                            "keywords": ["Cryptek"]
+                        },
+                        {
+                            "title": "Metalodermal Tesla Weave",
+                            "cost": "10",
+                            "keywords": ["Cryptek"]
+                        }
+                    ]
+                },
+                {
+                    "title": "Obeisance Phalanx",
+                    "enhancements": [
+                        {
+                            "title": "Honourable Combatant",
+                            "cost": "10",
+                            "keywords": ["Overlord"]
+                        },
+                        {
+                            "title": "Unflinching Will",
+                            "cost": "20",
+                            "keywords": ["Overlord"]
+                        },
+                        {
+                            "title": "Warrior Noble",
+                            "cost": "15",
+                            "keywords": ["Overlord"]
+                        },
+                        {
+                            "title": "Eternal Conqueror",
+                            "cost": "25",
+                            "keywords": ["Overlord"]
+                        }
+                    ]
+                },
+                {
+                    "title": "Hypercrypt Legion",
+                    "enhancements": [
+                        {
+                            "title": "Dimensional Overseer",
+                            "cost": "25",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Arisen Tyrant",
+                            "cost": "25",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Hyperspatial Transfer Node",
+                            "cost": "15",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Osteoclave Fulcrum",
+                            "cost": "20",
+                            "keywords": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "orks",
+            "title": "Orks",
+            "detachments": [
+                {
+                    "title": "War Horde",
+                    "enhancements": [
+                        {
+                            "title": "Follow Me Ladz",
+                            "cost": "25",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Headwoppa's Killchoppa",
+                            "cost": "20",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Kunnin' But Brutal",
+                            "cost": "15",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Supa-Cybork Body",
+                            "cost": "15",
+                            "keywords": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Da Big Hunt",
+                    "enhancements": [
+                        {
+                            "title": "Glory Hog",
+                            "cost": "30",
+                            "keywords": ["Beastboss on Squigosaur"]
+                        },
+                        {
+                            "title": "Proper Killy",
+                            "cost": "15",
+                            "keywords": ["Beast Snagga"]
+                        },
+                        {
+                            "title": "Skrag Every Stash!",
+                            "cost": "25",
+                            "keywords": ["Beast Snagga"]
+                        },
+                        {
+                            "title": "Surly as a Squiggoth",
+                            "cost": "20",
+                            "keywords": ["Beastboss on Squigosaur"]
+                        }
+                    ]
+                },
+                {
+                    "title": "Kult of Speed",
+                    "enhancements": [
+                        {
+                            "title": "Fasta Than Yooz",
+                            "cost": "35",
+                            "keywords": ["Infantry"]
+                        },
+                        {
+                            "title": "Speed Makes Right",
+                            "cost": "25",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Squig-hide Tyres",
+                            "cost": "15",
+                            "keywords": ["Deffkilla Wartrike"]
+                        },
+                        {
+                            "title": "Wazblasta",
+                            "cost": "10",
+                            "keywords": ["Deffkilla Wartrike"]
+                        }
+                    ]
+                },
+                {
+                    "title": "Dread Mob",
+                    "enhancements": [
+                        {
+                            "title": "Gitfinder Googlez",
+                            "cost": "10",
+                            "keywords": ["Mek"]
+                        },
+                        {
+                            "title": "Press It Fasta!",
+                            "cost": "35",
+                            "keywords": ["Mek"]
+                        },
+                        {
+                            "title": "Smoky Gubbinz",
+                            "cost": "15",
+                            "keywords": ["Mek"]
+                        },
+                        {
+                            "title": "Supa-glowy Fing",
+                            "cost": "20",
+                            "keywords": ["Mek"]
+                        }
+                    ]
+                },
+                {
+                    "title": "Green Tide",
+                    "enhancements": [
+                        {
+                            "title": "Bloodthirsty Belligerence",
+                            "cost": "15",
+                            "keywords": ["Infantry"]
+                        },
+                        {
+                            "title": "Brutal But Kunnin'",
+                            "cost": "25",
+                            "keywords": ["Infantry"]
+                        },
+                        {
+                            "title": "Ferocious Show Off",
+                            "cost": "10",
+                            "keywords": ["Infantry"]
+                        },
+                        {
+                            "title": "Raucous Warcaller",
+                            "cost": "20",
+                            "keywords": ["Infantry"]
+                        }
+                    ]
+                },
+                {
+                    "title": "Bully Boyz",
+                    "enhancements": [
+                        {
+                            "title": "Big Gob",
+                            "cost": "20",
+                            "keywords": ["&Infantry", "&Warboss"]
+                        },
+                        {
+                            "title": "Da Biggest Boss",
+                            "cost": "15",
+                            "keywords": ["&Infantry", "&Warboss"]
+                        },
+                        {
+                            "title": "'Eadstompa",
+                            "cost": "10",
+                            "keywords": ["&Infantry", "&Warboss"]
+                        },
+                        {
+                            "title": "Tellyporta",
+                            "cost": "25",
+                            "keywords": ["Warboss in Mega Armour"]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tauempire",
+            "title": "T'au Empire",
+            "detachments": [
+                {
+                    "title": "Kauyon",
+                    "enhancements": [
+                        {
+                            "title": "Exemplar of the Kauyon",
+                            "cost": "20",
+                            "keywords": ["&!Kroot", "&!Shaper"]
+                        },
+                        {
+                            "title": "Precision of the Patient Hunter",
+                            "cost": "15",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Solid-image Projection Unit",
+                            "cost": "30",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Through Unity, Devastation",
+                            "cost": "25",
+                            "keywords": ["&!Kroot", "&!Shaper"]
+                        }
+                    ]
+                },
+                {
+                    "title": "Mont'ka",
+                    "enhancements": [
+                        {
+                            "title": "Coordinated Exploitation",
+                            "cost": "20",
+                            "keywords": ["&!Kroot", "&!Shaper"]
+                        },
+                        {
+                            "title": "Exemplar of the Mont'ka",
+                            "cost": "10",
+                            "keywords": ["&!Kroot","&!Shaper"]
+                        },
+                        {
+                            "title": "Strategic Conqueror",
+                            "cost": "15",
+                            "keywords": []
+                        },
+                        {
+                            "title": "Strike Swiftly",
+                            "cost": "25",
+                            "keywords": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Retaliation Cadre",
+                    "enhancements": [
+                        {
+                            "title": "Internal Grenade Racks",
+                            "cost": "20",
+                            "keywords": ["Battlesuit"]
+                        },
+                        {
+                            "title": "Prototype Weapon System",
+                            "cost": "15",
+                            "keywords": ["Battlesuit"]
+                        },
+                        {
+                            "title": "Puretide Engram Neurochip",
+                            "cost": "25",
+                            "keywords": ["Battlesuit"]
+                        },
+                        {
+                            "title": "Starflare Ignition System",
+                            "cost": "20",
+                            "keywords": ["Battlesuit"]
+                        }
+                    ]
+                },
+                {
+                    "title": "Kroot Hunting Pack",
+                    "enhancements": [
+                        {
+                            "title": "Borthrod Gland",
+                            "cost": "15",
+                            "keywords": ["&Kroot", "&Flesh Shaper"]
+                        },
+                        {
+                            "title": "Kroothawk Flock",
+                            "cost": "10",
+                            "keywords": ["Kroot"]
+                        },
+                        {
+                            "title": "Nomadic Hunter",
+                            "cost": "20",
+                            "keywords": ["&Kroot", "&Trail Shaper"]
+                        },
+                        {
+                            "title": "Root-carved Weapons",
+                            "cost": "10",
+                            "keywords": ["&Kroot", "&War Shaper"]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

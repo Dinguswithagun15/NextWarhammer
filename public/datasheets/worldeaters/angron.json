@@ -1,0 +1,133 @@
+{
+    "title": "Angron",
+    "basesize": "100mm",
+    "movement": "14\"",
+    "toughness": "11",
+    "save": "2+",
+    "invuln": "4+",
+    "wounds": "16",
+    "leadership": "5+",
+    "oc": "6",
+    "rangedweapons": [
+
+    ],
+    "meleeweapons": [
+        {
+            "title": "Samni'arius and Spinegrinder",
+            "profiles": [
+                {
+                    "title": "strike",
+                    "abilities": [
+
+                    ],
+                    "range": "Melee",
+                    "attacks": "8",
+                    "s": "2+",
+                    "strength": "16",
+                    "ap": "-4",
+                    "damage": "D6 + 2"
+                },
+                {
+                    "title": "sweep",
+                    "abilities": [
+
+                    ],
+                    "range": "Melee",
+                    "attacks": "18",
+                    "s": "2+",
+                    "strength": "8",
+                    "ap": "-2",
+                    "damage": "2"
+                }
+            ]
+        }
+    ],
+    "wargearoptions": [
+        
+    ],
+    "coreabilities": [
+        "Deadly Demise D6",
+        "Deep Strike"
+    ],
+    "factionabilities": [
+        "Blessings of Khorne"
+    ],
+    "abilities" : [
+        {
+            "title": "Reborn in Blood",
+            "description": "Each time you make a Blessings of Khorne roll, if this model is destroyed, you can use a triple 6 from that roll to use this ability. If you do, this model is no longer destroyed and is placed into Reserves with its full wounds remaining."
+        },
+        {
+            "title": "Wrathful Presence",
+            "description": "At the start of your Charge phase, select one Wrathful Presence ability (see left). Until the start of your next Charge phase, this model has that ability."
+        }
+    ],
+    "wargearabilities": [
+        
+    ],
+    "choiceability" : {
+        "title": "Wrathful Presence",
+        "choices": [
+            {
+                "title": "Glorious Bloodletting (Aura)",
+                "description": "While a friendly WORLD EATERS unit is within \" of this model, each time a Charge roll is made for that unit, add 1 to the roll."
+            },
+            {
+                "title": "Infectious Rage (Aura)",
+                "description": "While a friendly WORLD EATERS unit that is below its Starting Strength is within 6\" of this model, add 1 to the Attacks characteristic of melee weapons equipped by models in that unit. For the purposes of this ability, if a unit has a Starting Strength of 1, it is considered to be below its Starting Strength while it has lost one or more wounds."
+            },
+            {
+                "title": "Righteous Slaughter (Aura)",
+                "description": "While a friendly WORLD EATERS unit is within 6\" of this model, each time a model in that unit makes an attack, you can re-roll the Hit roll."
+            }
+        ]
+    },
+    "unitcomposition": {
+        "models": [
+            "1 Angron"
+        ],
+        "equipped": [
+            {
+                "who": "This model",
+                "what": "Samni'arius and Spinegrinder"
+            }
+        ],
+        "sizes": [
+            {
+                "number": "1",
+                "cost": "415"
+            }
+        ]
+    },
+    "damaged": {
+        "threshold": "1-6 wounds remaining",
+        "description": "While this model has 1-6 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+    },
+    "other": [
+        {
+            "title": "Supreme Commander",
+            "description": "If this model is in your army, it must be your Warlord."
+        }
+    ],
+    "leaderbodyguard": {
+        "leader": "false",
+        "bodyguard": "false",
+        "units": [
+
+        ]
+    },
+    "keywords": [
+        "Monster",
+        "Fly",
+        "Character",
+        "Epic Hero",
+        "Chaos",
+        "Khorne",
+        "Daemon",
+        "Primarch",
+        "Angron"
+    ],
+    "factionkeywords": [
+        "World Eaters"
+    ]
+}

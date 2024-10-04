@@ -1,0 +1,124 @@
+{
+    "title": "Kharn the Betrayer",
+    "basesize": "40mm",
+    "movement": "6\"",
+    "toughness": "4",
+    "save": "3+",
+    "invuln": "4+",
+    "wounds": "6",
+    "leadership": "6+",
+    "oc": "1",
+    "rangedweapons": [
+        {
+            "title": "Kharn's plasma pistol",
+            "profiles": [
+                {
+                    "title": "",
+                    "abilities": [
+                        "pistol"
+                    ],
+                    "range": "12\"",
+                    "attacks": "1",
+                    "s": "2+",
+                    "strength": "8",
+                    "ap": "-3",
+                    "damage": "2"
+                }
+            ]
+        }
+    ],
+    "meleeweapons": [
+        {
+            "title": "Gorechild",
+            "profiles": [
+                {
+                    "title": "",
+                    "abilities": [
+
+                    ],
+                    "range": "Melee",
+                    "attacks": "8",
+                    "s": "2+",
+                    "strength": "6",
+                    "ap": "-2",
+                    "damage": "3"
+                }
+            ]
+        }
+    ],
+    "wargearoptions": [
+
+    ],
+    "coreabilities": [
+        "Leader"
+    ],
+    "factionabilities": [
+        "Blessings of Khorne"
+    ],
+    "abilities" : [
+        {
+            "title": "Legendary Killer",
+            "description": "While this model is leading a unit, each time a model in that unit makes an attack, re-roll a Hit roll of 1 and re-roll a Wound roll of 1."
+        },
+        {
+            "title": "The Betrayer",
+            "description": "At the end of your Charge phase, if this model is leading a unit and that unit is not within Engagement Range of one or more enemy units, you must take a Leadership test for this model. If that test is failed, one Bodyguard model of your choice in that unit is destroyed."
+        },
+        {
+            "title": "Berzerker Frenzy",
+            "description": "If this model is destroyed by a melee attack, if it has not fought this phase, do not remove it from play. It can fight after the attacking model's unit has finished making its attacks, and is then removed from play."
+        }
+    ],
+    "wargearabilities": [
+        
+    ],
+    "choiceability" : {
+        "title": "",
+        "choices": [
+            
+        ]
+    },
+    "unitcomposition": {
+        "models": [
+            "1 Kharn the Betrayer"
+        ],
+        "equipped": [
+            {
+                "who": "This model",
+                "what": "Kharn's plasma pistol, Gorechild."
+            }
+        ],
+        "sizes": [
+            {
+                "number": "1",
+                "cost": "100"
+            }
+        ]
+    },
+    "damaged": {
+        "threshold": "",
+        "description": ""
+    },
+    "other": [
+        
+    ],
+    "leaderbodyguard": {
+        "leader": "true",
+        "bodyguard": "false",
+        "units": [
+            "Khorne Berzerkers"
+        ]
+    },
+    "keywords": [
+        "Infantry",
+        "Character",
+        "Epic Hero",
+        "Grenades",
+        "Chaos",
+        "Khorne",
+        "Kharn the Betrayer"
+    ],
+    "factionkeywords": [
+        "World Eaters"
+    ]
+}

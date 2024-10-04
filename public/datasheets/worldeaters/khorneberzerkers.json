@@ -1,0 +1,175 @@
+{
+    "title": "Khorne Berzerkers",
+    "basesize": "32mm",
+    "movement": "6\"",
+    "toughness": "4",
+    "save": "3+",
+    "invuln": "",
+    "wounds": "2",
+    "leadership": "6+",
+    "oc": "2",
+    "rangedweapons": [
+        {
+            "title": "Bolt pistol",
+            "profiles": [
+                {
+                    "title": "",
+                    "abilities": [
+                        "pistol"
+                    ],
+                    "range": "12\"",
+                    "attacks": "1",
+                    "s": "3+",
+                    "strength": "4",
+                    "ap": "0",
+                    "damage": "1"
+                }
+            ]
+        },
+        {
+            "title": "Plasma pistol",
+            "profiles": [
+                {
+                    "title": "standard",
+                    "abilities": [
+                        "pistol"
+                    ],
+                    "range": "12\"",
+                    "attacks": "1",
+                    "s": "3+",
+                    "strength": "7",
+                    "ap": "-2",
+                    "damage": "1"
+                },
+                {
+                    "title": "supercharge",
+                    "abilities": [
+                        "pistol"
+                    ],
+                    "range": "12\"",
+                    "attacks": "1",
+                    "s": "3+",
+                    "strength": "8",
+                    "ap": "-3",
+                    "damage": "2"
+                }
+            ]
+        }
+    ],
+    "meleeweapons": [
+        {
+            "title": "Berzerker chainblade",
+            "profiles": [
+                {
+                    "title": "",
+                    "abilities": [
+
+                    ],
+                    "range": "Melee",
+                    "attacks": "4",
+                    "s": "3+",
+                    "strength": "5",
+                    "ap": "-1",
+                    "damage": "1"
+                }
+            ]
+        },
+        {
+            "title": "Khornate eviscerator",
+            "profiles": [
+                {
+                    "title": "",
+                    "abilities": [
+
+                    ],
+                    "range": "Melee",
+                    "attacks": "3",
+                    "s": "3+",
+                    "strength": "8",
+                    "ap": "-2",
+                    "damage": "2"
+                }
+            ]
+        }
+    ],
+    "wargearoptions": [
+        "The Khorne Berzerker Champion's bolt pistol can be replaced with 1 plasma pistol.",
+        "For every 5 models in this unit, 1 Khorne Berzerker's bolt pistol can be replaced with 1 plasma pistol.",
+        "For every 5 models in this unit, 1 Khorne Berzerker's Berzerker chainblade can be replaced with 1 Khornate eviscerator.",
+        "1 model can be equipped with 1 icon of Khorne."
+    ],
+    "coreabilities": [
+        
+    ],
+    "factionabilities": [
+        "Blessings of Khorne"
+    ],
+    "abilities" : [
+        {
+            "title": "Blood Surge",
+            "description": "Each time an enemy unit is selected to shoot, after that unit has finished making its attacks, if any models from this unit were destroyed as a result of those attacks, this unit can make a Blood Surge move. To do so, roll one D6: this unit can be moved a number of inches up to the result, but this unit must finish that move as close as possible to the closest enemy unit (excluding AIRCRAFT). When doing so, those models can be moved within Engagement Range of that enemy unit. A unit cannot make a Blood Surge move while it is Battle-shocked."
+        }
+    ],
+    "wargearabilities": [
+        {
+            "title": "Icon of Khorne",
+            "description": "Each time you make a Blessings of Khorne roll, if the bearer's unit is within range of an objective marker you control, you can re-roll one of the dice."
+        }
+    ],
+    "choiceability" : {
+        "title": "",
+        "choices": [
+            
+        ]
+    },
+    "unitcomposition": {
+        "models": [
+            "1 Khorne Berzerker Champion",
+            "4-9 Khorne Berzerkers"
+        ],
+        "equipped": [
+            {
+                "who": "Every model",
+                "what": "bolt pistol, Berzerker chainblade"
+            }
+        ],
+        "sizes": [
+            {
+                "number": "5",
+                "cost": "90"
+            },
+            {
+                "number": "10",
+                "cost": "180"
+            }
+        ]
+    },
+    "damaged": {
+        "threshold": "",
+        "description": ""
+    },
+    "other": [
+        
+    ],
+    "leaderbodyguard": {
+        "leader": "false",
+        "bodyguard": "true",
+        "units": [
+            "Kharn The Betrayer",
+            "Lord Invocatus",
+            "World Eaters Lord On Juggernaut",
+            "World Eaters Master Of Executions"
+        ]
+    },
+    "keywords": [
+        "Infantry",
+        "Battleline",
+        "Grenades",
+        "Chaos",
+        "Khorne",
+        "Berzerkers"
+    ],
+    "factionkeywords": [
+        "World Eaters"
+    ]
+}

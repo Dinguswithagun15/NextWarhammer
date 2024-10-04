@@ -1,0 +1,141 @@
+{
+    "title": "Lord Invocatus",
+    "basesize": "90 x 52mm",
+    "movement": "12\"",
+    "toughness": "6",
+    "save": "2+",
+    "invuln": "4+",
+    "wounds": "8",
+    "leadership": "6+",
+    "oc": "2",
+    "rangedweapons": [
+        {
+            "title": "Bolt pistol",
+            "profiles": [
+                {
+                    "title": "",
+                    "abilities": [
+                        "Pistol"
+                    ],
+                    "range": "12\"",
+                    "attacks": "1",
+                    "s": "2+",
+                    "strength": "4",
+                    "ap": "0",
+                    "damage": "1"
+                }
+            ]
+        }
+    ],
+    "meleeweapons": [
+        {
+            "title": "Coward's Bane",
+            "profiles": [
+                {
+                    "title": "",
+                    "abilities": [
+                        "Devastating Wounds"
+                    ],
+                    "range": "Melee",
+                    "attacks": "7",
+                    "s": "2+",
+                    "strength": "6",
+                    "ap": "-2",
+                    "damage": "2"
+                }
+            ]
+        },
+        {
+            "title": "Juggernaut's bladed horn",
+            "profiles": [
+                {
+                    "title": "",
+                    "abilities": [
+                        "Extra Attacks",
+                        "Lance"
+                    ],
+                    "range": "Melee",
+                    "attacks": "4",
+                    "s": "3+",
+                    "strength": "6",
+                    "ap": "-1",
+                    "damage": "2"
+                }
+            ]
+        }
+    ],
+    "wargearoptions": [
+
+    ],
+    "coreabilities": [
+        "Leader",
+        "Scouts 6\""
+    ],
+    "factionabilities": [
+        "Blessings of Khorne"
+    ],
+    "abilities" : [
+        {
+            "title": "Counter-attacks",
+            "description": "While this model is leading a unit, that unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
+        },
+        {
+            "title": "Road of Eight Bloody Steps",
+            "description": "At the start of the battle, before any moves are made using the Scouts ability, you can select up to two friendly WORLD EATERS INFANTRY units within 6\" of this model. Until the end of the battle, all models in the selected units have the Scouts 6\" ability."
+        }
+    ],
+    "wargearabilities": [
+        
+    ],
+    "choiceability" : {
+        "title": "",
+        "choices": [
+
+        ]
+    },
+    "unitcomposition": {
+        "models": [
+            "1 Lord Invocatus"
+        ],
+        "equipped": [
+            {
+                "who": "This model",
+                "what": "bolt pistol, Coward's Bane, Juggernaut's bladed horn."
+            }
+        ],
+        "sizes": [
+            {
+                "number": "1",
+                "cost": "140"
+            }
+        ]
+    },
+    "damaged": {
+        "threshold": "",
+        "description": ""
+    },
+    "other": [
+        
+    ],
+    "leaderbodyguard": {
+        "leader": "true",
+        "bodyguard": "false",
+        "units": [
+            "Eightbound",
+            "Exalted Eightbound",
+            "Khorne Berzerkers"
+        ]
+    },
+    "keywords": [
+        "Mounted",
+        "Character",
+        "Epic Hero",
+        "Grenades",
+        "Chaos",
+        "Khorne",
+        "Lord Invocatus"
+    ],
+    "factionkeywords": [
+        "World Eaters"
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "title": "",
+    "basesize": "",
+    "movement": "",
+    "toughness": "",
+    "save": "",
+    "invuln": "",
+    "wounds": "",
+    "leadership": "",
+    "oc": "",
+    "rangedweapons": [
+        {
+            "title": "example",
+            "profiles": [
+                {
+                    "title": "example",
+                    "abilities": [
+
+                    ],
+                    "range": "24\"",
+                    "attacks": "3",
+                    "s": "3+",
+                    "strength": "5",
+                    "ap": "-2",
+                    "damage": "2"
+                }
+            ]
+        }
+    ],
+    "meleeweapons": [
+        {
+            "title": "example",
+            "profiles": [
+                {
+                    "title": "example",
+                    "abilities": [
+
+                    ],
+                    "range": "Melee",
+                    "attacks": "3",
+                    "s": "3+",
+                    "strength": "5",
+                    "ap": "-2",
+                    "damage": "2"
+                }
+            ]
+        }
+    ],
+    "wargearoptions": [
+
+    ],
+    "coreabilities": [
+        
+    ],
+    "factionabilities": [
+        
+    ],
+    "abilities" : [
+        {
+            "title": "example",
+            "description": "example"
+        }
+    ],
+    "wargearabilities": [
+        {
+            "title": "example",
+            "description": "example"
+        }
+    ],
+    "choiceability" : {
+        "title": "",
+        "choices": [
+            {
+                "title": "example",
+                "description": "example"
+            }
+        ]
+    },
+    "unitcomposition": {
+        "models": [
+            "1 champion",
+            "4-9 warriors"
+        ],
+        "equipped": [
+            {
+                "who": "Every model",
+                "what": "weapon1, weapon2"
+            }
+        ],
+        "sizes": [
+            {
+                "number": "5",
+                "cost": "100"
+            },
+            {
+                "number": "10",
+                "cost": "200"
+            }
+        ]
+    },
+    "damaged": {
+        "threshold": "example",
+        "description": "example"
+    },
+    "other": [
+        {
+            "title": "example",
+            "description": "example"
+        }
+    ],
+    "leaderbodyguard": {
+        "leader": "false",
+        "bodyguard": "false",
+        "units": [
+
+        ]
+    },
+    "keywords": [
+        
+    ],
+    "factionkeywords": [
+        
+    ]
+}
