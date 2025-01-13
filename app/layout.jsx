@@ -6,7 +6,7 @@ const Layout = ({children}) => {
   const router = useRouter();
   return (
     <html>
-      <body>
+      <body className="flex flex-col">
         <div className="bg-gray font-main flex flex-row space-x-3 text-xl">
           <button className="text-white" type="button" onClick={() => router.push('/')}>
             Warhammer Datasheets

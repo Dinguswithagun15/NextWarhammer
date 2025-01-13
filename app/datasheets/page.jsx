@@ -9,10 +9,10 @@ const Datasheets = () => {
     size: "text-lg"
   }
   return (
-    <main className="m-5">
+    <main className="m-5 flex flex-col">
         <Accordion>
             <AccordionItem classNames={itemClasses} className="bg-spacemarines rounded-lg p-1 text-white w-full" key="spacemarines" aria-label="Space Marines" title="Space Marines">
-                
+              
             </AccordionItem>
             <AccordionItem classNames={itemClasses} className="bg-blacktemplars rounded-lg p-1 text-white w-full" key="blacktemplars" aria-label="Black Templars" title="Black Templars">
                 
@@ -45,8 +45,9 @@ const Datasheets = () => {
                 
             </AccordionItem>
             <AccordionItem classNames={itemClasses} className="bg-imperialknights rounded-lg p-1 text-white w-full" key="imperialknights" aria-label="Imperial Knights" title="Imperial Knights">
-                
+
             </AccordionItem>
+
             <AccordionItem classNames={itemClasses} className="bg-chaosspacemarines rounded-lg p-1 text-white w-full" key="chaosspacemarines" aria-label="Chaos Space Marines" title="Chaos Space Marines">
                 
             </AccordionItem>
@@ -56,9 +57,10 @@ const Datasheets = () => {
             <AccordionItem classNames={itemClasses} className="bg-thousandsons rounded-lg p-1 text-white w-full" key="thousandsons" aria-label="Thousand Sons" title="Thousand Sons">
                 
             </AccordionItem>
+            
             <AccordionItem classNames={itemClasses} className="bg-worldeaters rounded-lg p-1 text-white w-full" key="worldeaters" aria-label="World Eaters" title="World Eaters">
                 <div className="grid grid-cols-4 text-md">
-                    <button type="button" className="p-8" onClick={() => router.push('/datasheets/worldeaters/angron')}>
+                    <button type="button" className="p-8 bg-worldeaters opacity-100" onClick={() => router.push('/datasheets/worldeaters/angron')}>
                       Angron
                     </button>
                     <button type="button" className="p-8" onClick={() => router.push('/datasheets/worldeaters/kharnthebetrayer')}>
