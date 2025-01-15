@@ -17,6 +17,9 @@ const Layout = ({children}) => {
           <button className="text-white underline" type="button" onClick={() => router.push('/listbuilder')}>
             List Builder
           </button>
+          <button className="text-white underline" type="button" onClick={() => router.push('/datasheetcreator')}>
+            Datasheet Creator
+          </button>
         </div>
         <div>
           {children}

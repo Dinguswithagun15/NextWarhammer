@@ -2,6 +2,7 @@
 import React, { useEffect, useState } from "react";
 import {Select, SelectItem} from "@nextui-org/select";
 import {Input} from "@nextui-org/input";
+import Button from "../../public/button.jsx";
 async function getPointLimits() {
     let response;
     let pointlimits;
@@ -137,13 +138,6 @@ function CopyToClipboard(createdList) {
     }
     navigator.clipboard.writeText(copytext);
 }
-function Button({isActive, text, whenPressed}) {
-    return (
-        <>
-            {isActive ? <button className="bg-lightgray rounded-md p-1 active:bg-lightgraydepressed" onClick={whenPressed}>{text}</button> : <></>}
-        </>
-    );
-}
 function Warnings({isActive, warnings}) {
     if (isActive) {
         return (
@@ -168,20 +162,17 @@ function ListInfo({isActive, factionlist, pointlimits, factionValue, pointLimitV
         return (
             <div className="grid-cols-3">
                 <div>
-                    <div>Faction:</div>
-                    <Select key="selectFaction" items = {factionlist} aria-label="Faction" onChange={handleFactionValue} className="bg-white border-1 m-3">
+                    <Select key="selectFaction" items={factionlist} aria-label="Faction" onChange={handleFactionValue} label="Faction" placeholder="" className="border-1 p-1 mb-3">
                         {factionlist.map((faction) => <SelectItem className="border-x-1 border-t-1 last:border-b-1" key={faction.title}>{faction.title}</SelectItem>)}
                     </Select>
                 </div>
                 <div>
-                    <div>Point Limit:</div>
-                    <Select key="selectPointLimit" items = {pointlimits} aria-label="PointLimit" onChange={handlePointLimitValue} className="bg-white border-1 m-3">
-                        {pointlimits.map((pointlimit) => <SelectItem className="border-x-1 border-t-1 last:border-b-1" key={pointlimit.points}>{pointlimit.points}</SelectItem>)}
+                    <Select key="selectPointLimit" items={pointlimits} aria-label="PointLimit" onChange={handlePointLimitValue} label="Point Limit" placeholder="" className="border-1 p-1 mb-3">
+                        {pointlimits.map((pointlimit) => <SelectItem className="border-x-1 border-t-1 last:border-b-1" label="Point Limit" placeholder="Points" key={pointlimit.points}>{pointlimit.points}</SelectItem>)}
                     </Select>
                 </div>
                 <div>
-                    <div>Name:</div>
-                    <Input key="inputListName" type="text" aria-label="Name" className="bg-white border-1 m-3" onChange={handleNameValue}/>
+                    <Input key="inputListName" type="text" aria-label="Name" className="border-1 p-1 mb-3" label="Name" placeholder="" onChange={handleNameValue}/>
                 </div>
             </div>
         );
